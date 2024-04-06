@@ -1,18 +1,26 @@
 [
     {
+        "display_name": "District 53 Easter Server #1",
         "name": "easter_1",
-        "ip": "65.108.19.142:30020"
+        "ip": "65.108.19.142:30020",
+        "visible": true
     },
     {
+        "display_name": "District 53 Easter Server #2",
         "name": "easter_2",
-        "ip": "65.108.19.142:31050"
+        "ip": "65.108.19.142:31050",
+        "visible": true
     },
     {
+        "display_name": "District 53 Easter Server #3",
         "name": "easter_3",
-        "ip": "65.108.19.142:35240"
+        "ip": "65.108.19.142:35240",
+        "visible": true
     },
     {
+        "display_name": "District 53 Easter Server #4",
         "name": "easter_4",
-        "ip": "65.108.19.142:39300"
+        "ip": "65.108.19.142:39300",
+        "visible": true
     }
 ]
