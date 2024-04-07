@@ -1,5 +1,11 @@
 [
     {
+        "display_name": "Official District 53 - Main Server",
+        "name": "main_server",
+        "ip": "65.108.19.142:3000",
+        "visible": true
+    },
+    {
         "display_name": "District 53 - Capture the Flag",
         "name": "capture_the_flag",
         "ip": "65.108.19.142:3005",
