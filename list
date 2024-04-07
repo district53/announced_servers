@@ -10,29 +10,5 @@
         "name": "capture_the_flag",
         "ip": "65.108.19.142:3005",
         "visible": true
-    },
-    {
-        "display_name": "District 53 Egg Hunt Server #1",
-        "name": "easter_1",
-        "ip": "65.108.19.142:30020",
-        "visible": false
-    },
-    {
-        "display_name": "District 53 Egg Hunt Server #2",
-        "name": "easter_2",
-        "ip": "65.108.19.142:31050",
-        "visible": false
-    },
-    {
-        "display_name": "District 53 Egg Hunt Server #3",
-        "name": "easter_3",
-        "ip": "65.108.19.142:35240",
-        "visible": false
-    },
-    {
-        "display_name": "District 53 Egg Hunt Server #4",
-        "name": "easter_4",
-        "ip": "65.108.19.142:39300",
-        "visible": false
     }
 ]
